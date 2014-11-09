@@ -1,0 +1,3 @@
+def getstr():
+    return "fun"
+
